@@ -1,0 +1,2556 @@
+{
+  "code": 200,
+  "status": "OK",
+  "data": [
+    {
+      "timings": {
+        "Fajr": "05:54 (EET)",
+        "Sunrise": "07:25 (EET)",
+        "Dhuhr": "12:51 (EET)",
+        "Asr": "15:54 (EET)",
+        "Sunset": "18:16 (EET)",
+        "Maghrib": "18:16 (EET)",
+        "Isha": "19:37 (EET)",
+        "Imsak": "05:44 (EET)",
+        "Midnight": "00:51 (EET)"
+      },
+      "date": {
+        "readable": "01 Nov 2021",
+        "timestamp": "1635750061",
+        "gregorian": {
+          "date": "01-11-2021",
+          "format": "DD-MM-YYYY",
+          "day": "01",
+          "weekday": {
+            "en": "Monday"
+          },
+          "month": {
+            "number": 11,
+            "en": "November"
+          },
+          "year": "2021",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "25-03-1443",
+          "format": "DD-MM-YYYY",
+          "day": "25",
+          "weekday": {
+            "en": "Al Athnayn",
+            "ar": "الاثنين"
+          },
+          "month": {
+            "number": 3,
+            "en": "Rabīʿ al-awwal",
+            "ar": "رَبيع الأوّل"
+          },
+          "year": "1443",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 32.8872094,
+        "longitude": 13.1913383,
+        "timezone": "Africa/Tripoli",
+        "method": {
+          "id": 5,
+          "name": "Egyptian General Authority of Survey",
+          "params": {
+            "Fajr": 19.5,
+            "Isha": 17.5
+          },
+          "location": {
+            "latitude": 30.0444196,
+            "longitude": 31.2357116
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "05:55 (EET)",
+        "Sunrise": "07:26 (EET)",
+        "Dhuhr": "12:51 (EET)",
+        "Asr": "15:53 (EET)",
+        "Sunset": "18:15 (EET)",
+        "Maghrib": "18:15 (EET)",
+        "Isha": "19:36 (EET)",
+        "Imsak": "05:45 (EET)",
+        "Midnight": "00:51 (EET)"
+      },
+      "date": {
+        "readable": "02 Nov 2021",
+        "timestamp": "1635836461",
+        "gregorian": {
+          "date": "02-11-2021",
+          "format": "DD-MM-YYYY",
+          "day": "02",
+          "weekday": {
+            "en": "Tuesday"
+          },
+          "month": {
+            "number": 11,
+            "en": "November"
+          },
+          "year": "2021",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "26-03-1443",
+          "format": "DD-MM-YYYY",
+          "day": "26",
+          "weekday": {
+            "en": "Al Thalaata",
+            "ar": "الثلاثاء"
+          },
+          "month": {
+            "number": 3,
+            "en": "Rabīʿ al-awwal",
+            "ar": "رَبيع الأوّل"
+          },
+          "year": "1443",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 32.8872094,
+        "longitude": 13.1913383,
+        "timezone": "Africa/Tripoli",
+        "method": {
+          "id": 5,
+          "name": "Egyptian General Authority of Survey",
+          "params": {
+            "Fajr": 19.5,
+            "Isha": 17.5
+          },
+          "location": {
+            "latitude": 30.0444196,
+            "longitude": 31.2357116
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "05:56 (EET)",
+        "Sunrise": "07:27 (EET)",
+        "Dhuhr": "12:51 (EET)",
+        "Asr": "15:52 (EET)",
+        "Sunset": "18:14 (EET)",
+        "Maghrib": "18:14 (EET)",
+        "Isha": "19:36 (EET)",
+        "Imsak": "05:46 (EET)",
+        "Midnight": "00:51 (EET)"
+      },
+      "date": {
+        "readable": "03 Nov 2021",
+        "timestamp": "1635922861",
+        "gregorian": {
+          "date": "03-11-2021",
+          "format": "DD-MM-YYYY",
+          "day": "03",
+          "weekday": {
+            "en": "Wednesday"
+          },
+          "month": {
+            "number": 11,
+            "en": "November"
+          },
+          "year": "2021",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "27-03-1443",
+          "format": "DD-MM-YYYY",
+          "day": "27",
+          "weekday": {
+            "en": "Al Arba'a",
+            "ar": "الاربعاء"
+          },
+          "month": {
+            "number": 3,
+            "en": "Rabīʿ al-awwal",
+            "ar": "رَبيع الأوّل"
+          },
+          "year": "1443",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 32.8872094,
+        "longitude": 13.1913383,
+        "timezone": "Africa/Tripoli",
+        "method": {
+          "id": 5,
+          "name": "Egyptian General Authority of Survey",
+          "params": {
+            "Fajr": 19.5,
+            "Isha": 17.5
+          },
+          "location": {
+            "latitude": 30.0444196,
+            "longitude": 31.2357116
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "05:57 (EET)",
+        "Sunrise": "07:28 (EET)",
+        "Dhuhr": "12:51 (EET)",
+        "Asr": "15:52 (EET)",
+        "Sunset": "18:13 (EET)",
+        "Maghrib": "18:13 (EET)",
+        "Isha": "19:35 (EET)",
+        "Imsak": "05:47 (EET)",
+        "Midnight": "00:51 (EET)"
+      },
+      "date": {
+        "readable": "04 Nov 2021",
+        "timestamp": "1636009261",
+        "gregorian": {
+          "date": "04-11-2021",
+          "format": "DD-MM-YYYY",
+          "day": "04",
+          "weekday": {
+            "en": "Thursday"
+          },
+          "month": {
+            "number": 11,
+            "en": "November"
+          },
+          "year": "2021",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "28-03-1443",
+          "format": "DD-MM-YYYY",
+          "day": "28",
+          "weekday": {
+            "en": "Al Khamees",
+            "ar": "الخميس"
+          },
+          "month": {
+            "number": 3,
+            "en": "Rabīʿ al-awwal",
+            "ar": "رَبيع الأوّل"
+          },
+          "year": "1443",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 32.8872094,
+        "longitude": 13.1913383,
+        "timezone": "Africa/Tripoli",
+        "method": {
+          "id": 5,
+          "name": "Egyptian General Authority of Survey",
+          "params": {
+            "Fajr": 19.5,
+            "Isha": 17.5
+          },
+          "location": {
+            "latitude": 30.0444196,
+            "longitude": 31.2357116
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "05:57 (EET)",
+        "Sunrise": "07:29 (EET)",
+        "Dhuhr": "12:51 (EET)",
+        "Asr": "15:51 (EET)",
+        "Sunset": "18:13 (EET)",
+        "Maghrib": "18:13 (EET)",
+        "Isha": "19:34 (EET)",
+        "Imsak": "05:47 (EET)",
+        "Midnight": "00:51 (EET)"
+      },
+      "date": {
+        "readable": "05 Nov 2021",
+        "timestamp": "1636095661",
+        "gregorian": {
+          "date": "05-11-2021",
+          "format": "DD-MM-YYYY",
+          "day": "05",
+          "weekday": {
+            "en": "Friday"
+          },
+          "month": {
+            "number": 11,
+            "en": "November"
+          },
+          "year": "2021",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "29-03-1443",
+          "format": "DD-MM-YYYY",
+          "day": "29",
+          "weekday": {
+            "en": "Al Juma'a",
+            "ar": "الجمعة"
+          },
+          "month": {
+            "number": 3,
+            "en": "Rabīʿ al-awwal",
+            "ar": "رَبيع الأوّل"
+          },
+          "year": "1443",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 32.8872094,
+        "longitude": 13.1913383,
+        "timezone": "Africa/Tripoli",
+        "method": {
+          "id": 5,
+          "name": "Egyptian General Authority of Survey",
+          "params": {
+            "Fajr": 19.5,
+            "Isha": 17.5
+          },
+          "location": {
+            "latitude": 30.0444196,
+            "longitude": 31.2357116
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "05:58 (EET)",
+        "Sunrise": "07:30 (EET)",
+        "Dhuhr": "12:51 (EET)",
+        "Asr": "15:50 (EET)",
+        "Sunset": "18:12 (EET)",
+        "Maghrib": "18:12 (EET)",
+        "Isha": "19:34 (EET)",
+        "Imsak": "05:48 (EET)",
+        "Midnight": "00:51 (EET)"
+      },
+      "date": {
+        "readable": "06 Nov 2021",
+        "timestamp": "1636182061",
+        "gregorian": {
+          "date": "06-11-2021",
+          "format": "DD-MM-YYYY",
+          "day": "06",
+          "weekday": {
+            "en": "Saturday"
+          },
+          "month": {
+            "number": 11,
+            "en": "November"
+          },
+          "year": "2021",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "30-03-1443",
+          "format": "DD-MM-YYYY",
+          "day": "30",
+          "weekday": {
+            "en": "Al Sabt",
+            "ar": "السبت"
+          },
+          "month": {
+            "number": 3,
+            "en": "Rabīʿ al-awwal",
+            "ar": "رَبيع الأوّل"
+          },
+          "year": "1443",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 32.8872094,
+        "longitude": 13.1913383,
+        "timezone": "Africa/Tripoli",
+        "method": {
+          "id": 5,
+          "name": "Egyptian General Authority of Survey",
+          "params": {
+            "Fajr": 19.5,
+            "Isha": 17.5
+          },
+          "location": {
+            "latitude": 30.0444196,
+            "longitude": 31.2357116
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "05:59 (EET)",
+        "Sunrise": "07:30 (EET)",
+        "Dhuhr": "12:51 (EET)",
+        "Asr": "15:50 (EET)",
+        "Sunset": "18:11 (EET)",
+        "Maghrib": "18:11 (EET)",
+        "Isha": "19:33 (EET)",
+        "Imsak": "05:49 (EET)",
+        "Midnight": "00:51 (EET)"
+      },
+      "date": {
+        "readable": "07 Nov 2021",
+        "timestamp": "1636268461",
+        "gregorian": {
+          "date": "07-11-2021",
+          "format": "DD-MM-YYYY",
+          "day": "07",
+          "weekday": {
+            "en": "Sunday"
+          },
+          "month": {
+            "number": 11,
+            "en": "November"
+          },
+          "year": "2021",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "01-04-1443",
+          "format": "DD-MM-YYYY",
+          "day": "01",
+          "weekday": {
+            "en": "Al Ahad",
+            "ar": "الاحد"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rabīʿ al-thānī",
+            "ar": "رَبيع الثاني"
+          },
+          "year": "1443",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 32.8872094,
+        "longitude": 13.1913383,
+        "timezone": "Africa/Tripoli",
+        "method": {
+          "id": 5,
+          "name": "Egyptian General Authority of Survey",
+          "params": {
+            "Fajr": 19.5,
+            "Isha": 17.5
+          },
+          "location": {
+            "latitude": 30.0444196,
+            "longitude": 31.2357116
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "06:00 (EET)",
+        "Sunrise": "07:31 (EET)",
+        "Dhuhr": "12:51 (EET)",
+        "Asr": "15:49 (EET)",
+        "Sunset": "18:10 (EET)",
+        "Maghrib": "18:10 (EET)",
+        "Isha": "19:32 (EET)",
+        "Imsak": "05:50 (EET)",
+        "Midnight": "00:51 (EET)"
+      },
+      "date": {
+        "readable": "08 Nov 2021",
+        "timestamp": "1636354861",
+        "gregorian": {
+          "date": "08-11-2021",
+          "format": "DD-MM-YYYY",
+          "day": "08",
+          "weekday": {
+            "en": "Monday"
+          },
+          "month": {
+            "number": 11,
+            "en": "November"
+          },
+          "year": "2021",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "02-04-1443",
+          "format": "DD-MM-YYYY",
+          "day": "02",
+          "weekday": {
+            "en": "Al Athnayn",
+            "ar": "الاثنين"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rabīʿ al-thānī",
+            "ar": "رَبيع الثاني"
+          },
+          "year": "1443",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 32.8872094,
+        "longitude": 13.1913383,
+        "timezone": "Africa/Tripoli",
+        "method": {
+          "id": 5,
+          "name": "Egyptian General Authority of Survey",
+          "params": {
+            "Fajr": 19.5,
+            "Isha": 17.5
+          },
+          "location": {
+            "latitude": 30.0444196,
+            "longitude": 31.2357116
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "06:00 (EET)",
+        "Sunrise": "07:32 (EET)",
+        "Dhuhr": "12:51 (EET)",
+        "Asr": "15:49 (EET)",
+        "Sunset": "18:10 (EET)",
+        "Maghrib": "18:10 (EET)",
+        "Isha": "19:32 (EET)",
+        "Imsak": "05:50 (EET)",
+        "Midnight": "00:51 (EET)"
+      },
+      "date": {
+        "readable": "09 Nov 2021",
+        "timestamp": "1636441261",
+        "gregorian": {
+          "date": "09-11-2021",
+          "format": "DD-MM-YYYY",
+          "day": "09",
+          "weekday": {
+            "en": "Tuesday"
+          },
+          "month": {
+            "number": 11,
+            "en": "November"
+          },
+          "year": "2021",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "03-04-1443",
+          "format": "DD-MM-YYYY",
+          "day": "03",
+          "weekday": {
+            "en": "Al Thalaata",
+            "ar": "الثلاثاء"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rabīʿ al-thānī",
+            "ar": "رَبيع الثاني"
+          },
+          "year": "1443",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 32.8872094,
+        "longitude": 13.1913383,
+        "timezone": "Africa/Tripoli",
+        "method": {
+          "id": 5,
+          "name": "Egyptian General Authority of Survey",
+          "params": {
+            "Fajr": 19.5,
+            "Isha": 17.5
+          },
+          "location": {
+            "latitude": 30.0444196,
+            "longitude": 31.2357116
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "06:01 (EET)",
+        "Sunrise": "07:33 (EET)",
+        "Dhuhr": "12:51 (EET)",
+        "Asr": "15:48 (EET)",
+        "Sunset": "18:09 (EET)",
+        "Maghrib": "18:09 (EET)",
+        "Isha": "19:31 (EET)",
+        "Imsak": "05:51 (EET)",
+        "Midnight": "00:51 (EET)"
+      },
+      "date": {
+        "readable": "10 Nov 2021",
+        "timestamp": "1636527661",
+        "gregorian": {
+          "date": "10-11-2021",
+          "format": "DD-MM-YYYY",
+          "day": "10",
+          "weekday": {
+            "en": "Wednesday"
+          },
+          "month": {
+            "number": 11,
+            "en": "November"
+          },
+          "year": "2021",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "04-04-1443",
+          "format": "DD-MM-YYYY",
+          "day": "04",
+          "weekday": {
+            "en": "Al Arba'a",
+            "ar": "الاربعاء"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rabīʿ al-thānī",
+            "ar": "رَبيع الثاني"
+          },
+          "year": "1443",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 32.8872094,
+        "longitude": 13.1913383,
+        "timezone": "Africa/Tripoli",
+        "method": {
+          "id": 5,
+          "name": "Egyptian General Authority of Survey",
+          "params": {
+            "Fajr": 19.5,
+            "Isha": 17.5
+          },
+          "location": {
+            "latitude": 30.0444196,
+            "longitude": 31.2357116
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "06:02 (EET)",
+        "Sunrise": "07:34 (EET)",
+        "Dhuhr": "12:51 (EET)",
+        "Asr": "15:48 (EET)",
+        "Sunset": "18:08 (EET)",
+        "Maghrib": "18:08 (EET)",
+        "Isha": "19:31 (EET)",
+        "Imsak": "05:52 (EET)",
+        "Midnight": "00:51 (EET)"
+      },
+      "date": {
+        "readable": "11 Nov 2021",
+        "timestamp": "1636614061",
+        "gregorian": {
+          "date": "11-11-2021",
+          "format": "DD-MM-YYYY",
+          "day": "11",
+          "weekday": {
+            "en": "Thursday"
+          },
+          "month": {
+            "number": 11,
+            "en": "November"
+          },
+          "year": "2021",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "05-04-1443",
+          "format": "DD-MM-YYYY",
+          "day": "05",
+          "weekday": {
+            "en": "Al Khamees",
+            "ar": "الخميس"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rabīʿ al-thānī",
+            "ar": "رَبيع الثاني"
+          },
+          "year": "1443",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 32.8872094,
+        "longitude": 13.1913383,
+        "timezone": "Africa/Tripoli",
+        "method": {
+          "id": 5,
+          "name": "Egyptian General Authority of Survey",
+          "params": {
+            "Fajr": 19.5,
+            "Isha": 17.5
+          },
+          "location": {
+            "latitude": 30.0444196,
+            "longitude": 31.2357116
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "06:03 (EET)",
+        "Sunrise": "07:35 (EET)",
+        "Dhuhr": "12:51 (EET)",
+        "Asr": "15:47 (EET)",
+        "Sunset": "18:08 (EET)",
+        "Maghrib": "18:08 (EET)",
+        "Isha": "19:30 (EET)",
+        "Imsak": "05:53 (EET)",
+        "Midnight": "00:51 (EET)"
+      },
+      "date": {
+        "readable": "12 Nov 2021",
+        "timestamp": "1636700461",
+        "gregorian": {
+          "date": "12-11-2021",
+          "format": "DD-MM-YYYY",
+          "day": "12",
+          "weekday": {
+            "en": "Friday"
+          },
+          "month": {
+            "number": 11,
+            "en": "November"
+          },
+          "year": "2021",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "06-04-1443",
+          "format": "DD-MM-YYYY",
+          "day": "06",
+          "weekday": {
+            "en": "Al Juma'a",
+            "ar": "الجمعة"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rabīʿ al-thānī",
+            "ar": "رَبيع الثاني"
+          },
+          "year": "1443",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 32.8872094,
+        "longitude": 13.1913383,
+        "timezone": "Africa/Tripoli",
+        "method": {
+          "id": 5,
+          "name": "Egyptian General Authority of Survey",
+          "params": {
+            "Fajr": 19.5,
+            "Isha": 17.5
+          },
+          "location": {
+            "latitude": 30.0444196,
+            "longitude": 31.2357116
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "06:04 (EET)",
+        "Sunrise": "07:36 (EET)",
+        "Dhuhr": "12:52 (EET)",
+        "Asr": "15:47 (EET)",
+        "Sunset": "18:07 (EET)",
+        "Maghrib": "18:07 (EET)",
+        "Isha": "19:30 (EET)",
+        "Imsak": "05:54 (EET)",
+        "Midnight": "00:51 (EET)"
+      },
+      "date": {
+        "readable": "13 Nov 2021",
+        "timestamp": "1636786861",
+        "gregorian": {
+          "date": "13-11-2021",
+          "format": "DD-MM-YYYY",
+          "day": "13",
+          "weekday": {
+            "en": "Saturday"
+          },
+          "month": {
+            "number": 11,
+            "en": "November"
+          },
+          "year": "2021",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "07-04-1443",
+          "format": "DD-MM-YYYY",
+          "day": "07",
+          "weekday": {
+            "en": "Al Sabt",
+            "ar": "السبت"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rabīʿ al-thānī",
+            "ar": "رَبيع الثاني"
+          },
+          "year": "1443",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 32.8872094,
+        "longitude": 13.1913383,
+        "timezone": "Africa/Tripoli",
+        "method": {
+          "id": 5,
+          "name": "Egyptian General Authority of Survey",
+          "params": {
+            "Fajr": 19.5,
+            "Isha": 17.5
+          },
+          "location": {
+            "latitude": 30.0444196,
+            "longitude": 31.2357116
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "06:04 (EET)",
+        "Sunrise": "07:37 (EET)",
+        "Dhuhr": "12:52 (EET)",
+        "Asr": "15:46 (EET)",
+        "Sunset": "18:06 (EET)",
+        "Maghrib": "18:06 (EET)",
+        "Isha": "19:29 (EET)",
+        "Imsak": "05:54 (EET)",
+        "Midnight": "00:52 (EET)"
+      },
+      "date": {
+        "readable": "14 Nov 2021",
+        "timestamp": "1636873261",
+        "gregorian": {
+          "date": "14-11-2021",
+          "format": "DD-MM-YYYY",
+          "day": "14",
+          "weekday": {
+            "en": "Sunday"
+          },
+          "month": {
+            "number": 11,
+            "en": "November"
+          },
+          "year": "2021",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "08-04-1443",
+          "format": "DD-MM-YYYY",
+          "day": "08",
+          "weekday": {
+            "en": "Al Ahad",
+            "ar": "الاحد"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rabīʿ al-thānī",
+            "ar": "رَبيع الثاني"
+          },
+          "year": "1443",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 32.8872094,
+        "longitude": 13.1913383,
+        "timezone": "Africa/Tripoli",
+        "method": {
+          "id": 5,
+          "name": "Egyptian General Authority of Survey",
+          "params": {
+            "Fajr": 19.5,
+            "Isha": 17.5
+          },
+          "location": {
+            "latitude": 30.0444196,
+            "longitude": 31.2357116
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "06:05 (EET)",
+        "Sunrise": "07:38 (EET)",
+        "Dhuhr": "12:52 (EET)",
+        "Asr": "15:46 (EET)",
+        "Sunset": "18:06 (EET)",
+        "Maghrib": "18:06 (EET)",
+        "Isha": "19:29 (EET)",
+        "Imsak": "05:55 (EET)",
+        "Midnight": "00:52 (EET)"
+      },
+      "date": {
+        "readable": "15 Nov 2021",
+        "timestamp": "1636959661",
+        "gregorian": {
+          "date": "15-11-2021",
+          "format": "DD-MM-YYYY",
+          "day": "15",
+          "weekday": {
+            "en": "Monday"
+          },
+          "month": {
+            "number": 11,
+            "en": "November"
+          },
+          "year": "2021",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "09-04-1443",
+          "format": "DD-MM-YYYY",
+          "day": "09",
+          "weekday": {
+            "en": "Al Athnayn",
+            "ar": "الاثنين"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rabīʿ al-thānī",
+            "ar": "رَبيع الثاني"
+          },
+          "year": "1443",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 32.8872094,
+        "longitude": 13.1913383,
+        "timezone": "Africa/Tripoli",
+        "method": {
+          "id": 5,
+          "name": "Egyptian General Authority of Survey",
+          "params": {
+            "Fajr": 19.5,
+            "Isha": 17.5
+          },
+          "location": {
+            "latitude": 30.0444196,
+            "longitude": 31.2357116
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "06:06 (EET)",
+        "Sunrise": "07:39 (EET)",
+        "Dhuhr": "12:52 (EET)",
+        "Asr": "15:45 (EET)",
+        "Sunset": "18:05 (EET)",
+        "Maghrib": "18:05 (EET)",
+        "Isha": "19:28 (EET)",
+        "Imsak": "05:56 (EET)",
+        "Midnight": "00:52 (EET)"
+      },
+      "date": {
+        "readable": "16 Nov 2021",
+        "timestamp": "1637046061",
+        "gregorian": {
+          "date": "16-11-2021",
+          "format": "DD-MM-YYYY",
+          "day": "16",
+          "weekday": {
+            "en": "Tuesday"
+          },
+          "month": {
+            "number": 11,
+            "en": "November"
+          },
+          "year": "2021",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "10-04-1443",
+          "format": "DD-MM-YYYY",
+          "day": "10",
+          "weekday": {
+            "en": "Al Thalaata",
+            "ar": "الثلاثاء"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rabīʿ al-thānī",
+            "ar": "رَبيع الثاني"
+          },
+          "year": "1443",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 32.8872094,
+        "longitude": 13.1913383,
+        "timezone": "Africa/Tripoli",
+        "method": {
+          "id": 5,
+          "name": "Egyptian General Authority of Survey",
+          "params": {
+            "Fajr": 19.5,
+            "Isha": 17.5
+          },
+          "location": {
+            "latitude": 30.0444196,
+            "longitude": 31.2357116
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "06:07 (EET)",
+        "Sunrise": "07:39 (EET)",
+        "Dhuhr": "12:52 (EET)",
+        "Asr": "15:45 (EET)",
+        "Sunset": "18:05 (EET)",
+        "Maghrib": "18:05 (EET)",
+        "Isha": "19:28 (EET)",
+        "Imsak": "05:57 (EET)",
+        "Midnight": "00:52 (EET)"
+      },
+      "date": {
+        "readable": "17 Nov 2021",
+        "timestamp": "1637132461",
+        "gregorian": {
+          "date": "17-11-2021",
+          "format": "DD-MM-YYYY",
+          "day": "17",
+          "weekday": {
+            "en": "Wednesday"
+          },
+          "month": {
+            "number": 11,
+            "en": "November"
+          },
+          "year": "2021",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "11-04-1443",
+          "format": "DD-MM-YYYY",
+          "day": "11",
+          "weekday": {
+            "en": "Al Arba'a",
+            "ar": "الاربعاء"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rabīʿ al-thānī",
+            "ar": "رَبيع الثاني"
+          },
+          "year": "1443",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 32.8872094,
+        "longitude": 13.1913383,
+        "timezone": "Africa/Tripoli",
+        "method": {
+          "id": 5,
+          "name": "Egyptian General Authority of Survey",
+          "params": {
+            "Fajr": 19.5,
+            "Isha": 17.5
+          },
+          "location": {
+            "latitude": 30.0444196,
+            "longitude": 31.2357116
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "06:07 (EET)",
+        "Sunrise": "07:40 (EET)",
+        "Dhuhr": "12:52 (EET)",
+        "Asr": "15:45 (EET)",
+        "Sunset": "18:04 (EET)",
+        "Maghrib": "18:04 (EET)",
+        "Isha": "19:27 (EET)",
+        "Imsak": "05:57 (EET)",
+        "Midnight": "00:52 (EET)"
+      },
+      "date": {
+        "readable": "18 Nov 2021",
+        "timestamp": "1637218861",
+        "gregorian": {
+          "date": "18-11-2021",
+          "format": "DD-MM-YYYY",
+          "day": "18",
+          "weekday": {
+            "en": "Thursday"
+          },
+          "month": {
+            "number": 11,
+            "en": "November"
+          },
+          "year": "2021",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "12-04-1443",
+          "format": "DD-MM-YYYY",
+          "day": "12",
+          "weekday": {
+            "en": "Al Khamees",
+            "ar": "الخميس"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rabīʿ al-thānī",
+            "ar": "رَبيع الثاني"
+          },
+          "year": "1443",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 32.8872094,
+        "longitude": 13.1913383,
+        "timezone": "Africa/Tripoli",
+        "method": {
+          "id": 5,
+          "name": "Egyptian General Authority of Survey",
+          "params": {
+            "Fajr": 19.5,
+            "Isha": 17.5
+          },
+          "location": {
+            "latitude": 30.0444196,
+            "longitude": 31.2357116
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "06:08 (EET)",
+        "Sunrise": "07:41 (EET)",
+        "Dhuhr": "12:53 (EET)",
+        "Asr": "15:44 (EET)",
+        "Sunset": "18:04 (EET)",
+        "Maghrib": "18:04 (EET)",
+        "Isha": "19:27 (EET)",
+        "Imsak": "05:58 (EET)",
+        "Midnight": "00:52 (EET)"
+      },
+      "date": {
+        "readable": "19 Nov 2021",
+        "timestamp": "1637305261",
+        "gregorian": {
+          "date": "19-11-2021",
+          "format": "DD-MM-YYYY",
+          "day": "19",
+          "weekday": {
+            "en": "Friday"
+          },
+          "month": {
+            "number": 11,
+            "en": "November"
+          },
+          "year": "2021",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "13-04-1443",
+          "format": "DD-MM-YYYY",
+          "day": "13",
+          "weekday": {
+            "en": "Al Juma'a",
+            "ar": "الجمعة"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rabīʿ al-thānī",
+            "ar": "رَبيع الثاني"
+          },
+          "year": "1443",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 32.8872094,
+        "longitude": 13.1913383,
+        "timezone": "Africa/Tripoli",
+        "method": {
+          "id": 5,
+          "name": "Egyptian General Authority of Survey",
+          "params": {
+            "Fajr": 19.5,
+            "Isha": 17.5
+          },
+          "location": {
+            "latitude": 30.0444196,
+            "longitude": 31.2357116
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "06:09 (EET)",
+        "Sunrise": "07:42 (EET)",
+        "Dhuhr": "12:53 (EET)",
+        "Asr": "15:44 (EET)",
+        "Sunset": "18:03 (EET)",
+        "Maghrib": "18:03 (EET)",
+        "Isha": "19:27 (EET)",
+        "Imsak": "05:59 (EET)",
+        "Midnight": "00:53 (EET)"
+      },
+      "date": {
+        "readable": "20 Nov 2021",
+        "timestamp": "1637391661",
+        "gregorian": {
+          "date": "20-11-2021",
+          "format": "DD-MM-YYYY",
+          "day": "20",
+          "weekday": {
+            "en": "Saturday"
+          },
+          "month": {
+            "number": 11,
+            "en": "November"
+          },
+          "year": "2021",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "14-04-1443",
+          "format": "DD-MM-YYYY",
+          "day": "14",
+          "weekday": {
+            "en": "Al Sabt",
+            "ar": "السبت"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rabīʿ al-thānī",
+            "ar": "رَبيع الثاني"
+          },
+          "year": "1443",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 32.8872094,
+        "longitude": 13.1913383,
+        "timezone": "Africa/Tripoli",
+        "method": {
+          "id": 5,
+          "name": "Egyptian General Authority of Survey",
+          "params": {
+            "Fajr": 19.5,
+            "Isha": 17.5
+          },
+          "location": {
+            "latitude": 30.0444196,
+            "longitude": 31.2357116
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "06:10 (EET)",
+        "Sunrise": "07:43 (EET)",
+        "Dhuhr": "12:53 (EET)",
+        "Asr": "15:44 (EET)",
+        "Sunset": "18:03 (EET)",
+        "Maghrib": "18:03 (EET)",
+        "Isha": "19:27 (EET)",
+        "Imsak": "06:00 (EET)",
+        "Midnight": "00:53 (EET)"
+      },
+      "date": {
+        "readable": "21 Nov 2021",
+        "timestamp": "1637478061",
+        "gregorian": {
+          "date": "21-11-2021",
+          "format": "DD-MM-YYYY",
+          "day": "21",
+          "weekday": {
+            "en": "Sunday"
+          },
+          "month": {
+            "number": 11,
+            "en": "November"
+          },
+          "year": "2021",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "15-04-1443",
+          "format": "DD-MM-YYYY",
+          "day": "15",
+          "weekday": {
+            "en": "Al Ahad",
+            "ar": "الاحد"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rabīʿ al-thānī",
+            "ar": "رَبيع الثاني"
+          },
+          "year": "1443",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 32.8872094,
+        "longitude": 13.1913383,
+        "timezone": "Africa/Tripoli",
+        "method": {
+          "id": 5,
+          "name": "Egyptian General Authority of Survey",
+          "params": {
+            "Fajr": 19.5,
+            "Isha": 17.5
+          },
+          "location": {
+            "latitude": 30.0444196,
+            "longitude": 31.2357116
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "06:10 (EET)",
+        "Sunrise": "07:44 (EET)",
+        "Dhuhr": "12:53 (EET)",
+        "Asr": "15:43 (EET)",
+        "Sunset": "18:03 (EET)",
+        "Maghrib": "18:03 (EET)",
+        "Isha": "19:26 (EET)",
+        "Imsak": "06:00 (EET)",
+        "Midnight": "00:53 (EET)"
+      },
+      "date": {
+        "readable": "22 Nov 2021",
+        "timestamp": "1637564461",
+        "gregorian": {
+          "date": "22-11-2021",
+          "format": "DD-MM-YYYY",
+          "day": "22",
+          "weekday": {
+            "en": "Monday"
+          },
+          "month": {
+            "number": 11,
+            "en": "November"
+          },
+          "year": "2021",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "16-04-1443",
+          "format": "DD-MM-YYYY",
+          "day": "16",
+          "weekday": {
+            "en": "Al Athnayn",
+            "ar": "الاثنين"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rabīʿ al-thānī",
+            "ar": "رَبيع الثاني"
+          },
+          "year": "1443",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 32.8872094,
+        "longitude": 13.1913383,
+        "timezone": "Africa/Tripoli",
+        "method": {
+          "id": 5,
+          "name": "Egyptian General Authority of Survey",
+          "params": {
+            "Fajr": 19.5,
+            "Isha": 17.5
+          },
+          "location": {
+            "latitude": 30.0444196,
+            "longitude": 31.2357116
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "06:11 (EET)",
+        "Sunrise": "07:45 (EET)",
+        "Dhuhr": "12:54 (EET)",
+        "Asr": "15:43 (EET)",
+        "Sunset": "18:02 (EET)",
+        "Maghrib": "18:02 (EET)",
+        "Isha": "19:26 (EET)",
+        "Imsak": "06:01 (EET)",
+        "Midnight": "00:54 (EET)"
+      },
+      "date": {
+        "readable": "23 Nov 2021",
+        "timestamp": "1637650861",
+        "gregorian": {
+          "date": "23-11-2021",
+          "format": "DD-MM-YYYY",
+          "day": "23",
+          "weekday": {
+            "en": "Tuesday"
+          },
+          "month": {
+            "number": 11,
+            "en": "November"
+          },
+          "year": "2021",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "17-04-1443",
+          "format": "DD-MM-YYYY",
+          "day": "17",
+          "weekday": {
+            "en": "Al Thalaata",
+            "ar": "الثلاثاء"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rabīʿ al-thānī",
+            "ar": "رَبيع الثاني"
+          },
+          "year": "1443",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 32.8872094,
+        "longitude": 13.1913383,
+        "timezone": "Africa/Tripoli",
+        "method": {
+          "id": 5,
+          "name": "Egyptian General Authority of Survey",
+          "params": {
+            "Fajr": 19.5,
+            "Isha": 17.5
+          },
+          "location": {
+            "latitude": 30.0444196,
+            "longitude": 31.2357116
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "06:12 (EET)",
+        "Sunrise": "07:46 (EET)",
+        "Dhuhr": "12:54 (EET)",
+        "Asr": "15:43 (EET)",
+        "Sunset": "18:02 (EET)",
+        "Maghrib": "18:02 (EET)",
+        "Isha": "19:26 (EET)",
+        "Imsak": "06:02 (EET)",
+        "Midnight": "00:54 (EET)"
+      },
+      "date": {
+        "readable": "24 Nov 2021",
+        "timestamp": "1637737261",
+        "gregorian": {
+          "date": "24-11-2021",
+          "format": "DD-MM-YYYY",
+          "day": "24",
+          "weekday": {
+            "en": "Wednesday"
+          },
+          "month": {
+            "number": 11,
+            "en": "November"
+          },
+          "year": "2021",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "18-04-1443",
+          "format": "DD-MM-YYYY",
+          "day": "18",
+          "weekday": {
+            "en": "Al Arba'a",
+            "ar": "الاربعاء"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rabīʿ al-thānī",
+            "ar": "رَبيع الثاني"
+          },
+          "year": "1443",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 32.8872094,
+        "longitude": 13.1913383,
+        "timezone": "Africa/Tripoli",
+        "method": {
+          "id": 5,
+          "name": "Egyptian General Authority of Survey",
+          "params": {
+            "Fajr": 19.5,
+            "Isha": 17.5
+          },
+          "location": {
+            "latitude": 30.0444196,
+            "longitude": 31.2357116
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "06:13 (EET)",
+        "Sunrise": "07:47 (EET)",
+        "Dhuhr": "12:54 (EET)",
+        "Asr": "15:43 (EET)",
+        "Sunset": "18:02 (EET)",
+        "Maghrib": "18:02 (EET)",
+        "Isha": "19:26 (EET)",
+        "Imsak": "06:03 (EET)",
+        "Midnight": "00:54 (EET)"
+      },
+      "date": {
+        "readable": "25 Nov 2021",
+        "timestamp": "1637823661",
+        "gregorian": {
+          "date": "25-11-2021",
+          "format": "DD-MM-YYYY",
+          "day": "25",
+          "weekday": {
+            "en": "Thursday"
+          },
+          "month": {
+            "number": 11,
+            "en": "November"
+          },
+          "year": "2021",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "19-04-1443",
+          "format": "DD-MM-YYYY",
+          "day": "19",
+          "weekday": {
+            "en": "Al Khamees",
+            "ar": "الخميس"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rabīʿ al-thānī",
+            "ar": "رَبيع الثاني"
+          },
+          "year": "1443",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 32.8872094,
+        "longitude": 13.1913383,
+        "timezone": "Africa/Tripoli",
+        "method": {
+          "id": 5,
+          "name": "Egyptian General Authority of Survey",
+          "params": {
+            "Fajr": 19.5,
+            "Isha": 17.5
+          },
+          "location": {
+            "latitude": 30.0444196,
+            "longitude": 31.2357116
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "06:13 (EET)",
+        "Sunrise": "07:48 (EET)",
+        "Dhuhr": "12:55 (EET)",
+        "Asr": "15:43 (EET)",
+        "Sunset": "18:01 (EET)",
+        "Maghrib": "18:01 (EET)",
+        "Isha": "19:26 (EET)",
+        "Imsak": "06:03 (EET)",
+        "Midnight": "00:54 (EET)"
+      },
+      "date": {
+        "readable": "26 Nov 2021",
+        "timestamp": "1637910061",
+        "gregorian": {
+          "date": "26-11-2021",
+          "format": "DD-MM-YYYY",
+          "day": "26",
+          "weekday": {
+            "en": "Friday"
+          },
+          "month": {
+            "number": 11,
+            "en": "November"
+          },
+          "year": "2021",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "20-04-1443",
+          "format": "DD-MM-YYYY",
+          "day": "20",
+          "weekday": {
+            "en": "Al Juma'a",
+            "ar": "الجمعة"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rabīʿ al-thānī",
+            "ar": "رَبيع الثاني"
+          },
+          "year": "1443",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 32.8872094,
+        "longitude": 13.1913383,
+        "timezone": "Africa/Tripoli",
+        "method": {
+          "id": 5,
+          "name": "Egyptian General Authority of Survey",
+          "params": {
+            "Fajr": 19.5,
+            "Isha": 17.5
+          },
+          "location": {
+            "latitude": 30.0444196,
+            "longitude": 31.2357116
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "06:14 (EET)",
+        "Sunrise": "07:48 (EET)",
+        "Dhuhr": "12:55 (EET)",
+        "Asr": "15:42 (EET)",
+        "Sunset": "18:01 (EET)",
+        "Maghrib": "18:01 (EET)",
+        "Isha": "19:26 (EET)",
+        "Imsak": "06:04 (EET)",
+        "Midnight": "00:55 (EET)"
+      },
+      "date": {
+        "readable": "27 Nov 2021",
+        "timestamp": "1637996461",
+        "gregorian": {
+          "date": "27-11-2021",
+          "format": "DD-MM-YYYY",
+          "day": "27",
+          "weekday": {
+            "en": "Saturday"
+          },
+          "month": {
+            "number": 11,
+            "en": "November"
+          },
+          "year": "2021",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "21-04-1443",
+          "format": "DD-MM-YYYY",
+          "day": "21",
+          "weekday": {
+            "en": "Al Sabt",
+            "ar": "السبت"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rabīʿ al-thānī",
+            "ar": "رَبيع الثاني"
+          },
+          "year": "1443",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 32.8872094,
+        "longitude": 13.1913383,
+        "timezone": "Africa/Tripoli",
+        "method": {
+          "id": 5,
+          "name": "Egyptian General Authority of Survey",
+          "params": {
+            "Fajr": 19.5,
+            "Isha": 17.5
+          },
+          "location": {
+            "latitude": 30.0444196,
+            "longitude": 31.2357116
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "06:15 (EET)",
+        "Sunrise": "07:49 (EET)",
+        "Dhuhr": "12:55 (EET)",
+        "Asr": "15:42 (EET)",
+        "Sunset": "18:01 (EET)",
+        "Maghrib": "18:01 (EET)",
+        "Isha": "19:25 (EET)",
+        "Imsak": "06:05 (EET)",
+        "Midnight": "00:55 (EET)"
+      },
+      "date": {
+        "readable": "28 Nov 2021",
+        "timestamp": "1638082861",
+        "gregorian": {
+          "date": "28-11-2021",
+          "format": "DD-MM-YYYY",
+          "day": "28",
+          "weekday": {
+            "en": "Sunday"
+          },
+          "month": {
+            "number": 11,
+            "en": "November"
+          },
+          "year": "2021",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "22-04-1443",
+          "format": "DD-MM-YYYY",
+          "day": "22",
+          "weekday": {
+            "en": "Al Ahad",
+            "ar": "الاحد"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rabīʿ al-thānī",
+            "ar": "رَبيع الثاني"
+          },
+          "year": "1443",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 32.8872094,
+        "longitude": 13.1913383,
+        "timezone": "Africa/Tripoli",
+        "method": {
+          "id": 5,
+          "name": "Egyptian General Authority of Survey",
+          "params": {
+            "Fajr": 19.5,
+            "Isha": 17.5
+          },
+          "location": {
+            "latitude": 30.0444196,
+            "longitude": 31.2357116
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "06:16 (EET)",
+        "Sunrise": "07:50 (EET)",
+        "Dhuhr": "12:56 (EET)",
+        "Asr": "15:42 (EET)",
+        "Sunset": "18:01 (EET)",
+        "Maghrib": "18:01 (EET)",
+        "Isha": "19:25 (EET)",
+        "Imsak": "06:06 (EET)",
+        "Midnight": "00:55 (EET)"
+      },
+      "date": {
+        "readable": "29 Nov 2021",
+        "timestamp": "1638169261",
+        "gregorian": {
+          "date": "29-11-2021",
+          "format": "DD-MM-YYYY",
+          "day": "29",
+          "weekday": {
+            "en": "Monday"
+          },
+          "month": {
+            "number": 11,
+            "en": "November"
+          },
+          "year": "2021",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "23-04-1443",
+          "format": "DD-MM-YYYY",
+          "day": "23",
+          "weekday": {
+            "en": "Al Athnayn",
+            "ar": "الاثنين"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rabīʿ al-thānī",
+            "ar": "رَبيع الثاني"
+          },
+          "year": "1443",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 32.8872094,
+        "longitude": 13.1913383,
+        "timezone": "Africa/Tripoli",
+        "method": {
+          "id": 5,
+          "name": "Egyptian General Authority of Survey",
+          "params": {
+            "Fajr": 19.5,
+            "Isha": 17.5
+          },
+          "location": {
+            "latitude": 30.0444196,
+            "longitude": 31.2357116
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    },
+    {
+      "timings": {
+        "Fajr": "06:16 (EET)",
+        "Sunrise": "07:51 (EET)",
+        "Dhuhr": "12:56 (EET)",
+        "Asr": "15:42 (EET)",
+        "Sunset": "18:01 (EET)",
+        "Maghrib": "18:01 (EET)",
+        "Isha": "19:25 (EET)",
+        "Imsak": "06:06 (EET)",
+        "Midnight": "00:56 (EET)"
+      },
+      "date": {
+        "readable": "30 Nov 2021",
+        "timestamp": "1638255661",
+        "gregorian": {
+          "date": "30-11-2021",
+          "format": "DD-MM-YYYY",
+          "day": "30",
+          "weekday": {
+            "en": "Tuesday"
+          },
+          "month": {
+            "number": 11,
+            "en": "November"
+          },
+          "year": "2021",
+          "designation": {
+            "abbreviated": "AD",
+            "expanded": "Anno Domini"
+          }
+        },
+        "hijri": {
+          "date": "24-04-1443",
+          "format": "DD-MM-YYYY",
+          "day": "24",
+          "weekday": {
+            "en": "Al Thalaata",
+            "ar": "الثلاثاء"
+          },
+          "month": {
+            "number": 4,
+            "en": "Rabīʿ al-thānī",
+            "ar": "رَبيع الثاني"
+          },
+          "year": "1443",
+          "designation": {
+            "abbreviated": "AH",
+            "expanded": "Anno Hegirae"
+          },
+          "holidays": []
+        }
+      },
+      "meta": {
+        "latitude": 32.8872094,
+        "longitude": 13.1913383,
+        "timezone": "Africa/Tripoli",
+        "method": {
+          "id": 5,
+          "name": "Egyptian General Authority of Survey",
+          "params": {
+            "Fajr": 19.5,
+            "Isha": 17.5
+          },
+          "location": {
+            "latitude": 30.0444196,
+            "longitude": 31.2357116
+          }
+        },
+        "latitudeAdjustmentMethod": "ANGLE_BASED",
+        "midnightMode": "STANDARD",
+        "school": "STANDARD",
+        "offset": {
+          "Imsak": 0,
+          "Fajr": 0,
+          "Sunrise": 0,
+          "Dhuhr": 0,
+          "Asr": 0,
+          "Maghrib": 0,
+          "Sunset": 0,
+          "Isha": 0,
+          "Midnight": 0
+        }
+      }
+    }
+  ]
+}
